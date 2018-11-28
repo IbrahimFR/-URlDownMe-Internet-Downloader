@@ -1,2 +1,2 @@
-# -URlDownMe-Internet-Downloader
-Internet Download Maanager
+# -URlDownMe- Internet Downloader Manager
+Internet Download Manager
